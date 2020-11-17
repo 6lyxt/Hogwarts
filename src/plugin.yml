@@ -1,0 +1,18 @@
+name: HogwartsRP
+author: lyxt
+main: at.dietze.hogwartsrp.Main
+version: 1.0
+api-version: 1.13
+
+commands:
+  spawn:
+    description: Teleportiert dich zum Spawn
+
+  setspawn:
+    description: Setzt den Spawn
+
+  gemeinschaftsraum:
+    description: Teleportiert dich zum Gemeinschaftsraum
+
+  setgemeinschaftsraum:
+    description: Setzt den Gemeinschaftsraum
